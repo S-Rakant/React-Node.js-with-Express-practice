@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.square {
+    display: flex;
+    justify-content: center;
+    width: 50vh;
+    height: 50vh;
+    background-color: greenyellow;
+    margin-top: 16px;
+}
